@@ -1,4 +1,4 @@
-# Gemini-jailbreak V2
+# Arya's fork of UltraZartrexa's Gemini-jailbreak with [feature] Fix/Improvemens
 for Jailbreaking and image generation
 # Prompt
 
