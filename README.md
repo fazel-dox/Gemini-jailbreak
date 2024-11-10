@@ -1,4 +1,4 @@
-# Arya's fork of UltraZartrexa's Gemini-jailbreak with [feature] Fix/Improvemens
+# Fazel's fork of UltraZartrexa's Gemini-jailbreak with [feature] Fix/Improvemens
 for Jailbreaking and image generation
 # Instructions to how to apply Gemini-jailbreak
 Access the Gemini through Google AI Studio: " https://aistudio.google.com/app/prompts/new_chat " This modification can only be implemented within the AI Studio environment, not on the original Gemini website.
